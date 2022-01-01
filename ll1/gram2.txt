@@ -1,0 +1,7 @@
+program->stmt_seq
+stmt_seq->statment
+statment->read_stmt
+statment->write_stmt
+write_stmt->t_write t_id
+read_stmt->t_read t_id
+

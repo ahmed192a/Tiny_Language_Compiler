@@ -1,0 +1,5 @@
+S->A B
+A->t_a
+A->t_e
+B->t_b
+B->t_e
